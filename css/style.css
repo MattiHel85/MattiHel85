@@ -330,6 +330,7 @@ button:focus {
         align-self: center;
         height: 150px;
         width: auto;
+        margin-right: auto;
        }
 
 .blog_banner {
