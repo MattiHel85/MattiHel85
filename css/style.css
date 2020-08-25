@@ -326,7 +326,8 @@ button:focus {
       .home_banner_area .banner_inner .banner_content .media .d-flex {
         padding-right: 125px; }
         .home_banner_area .banner_inner .banner_content .media .d-flex .d-flex-img {
-          width: 200px;
+          height: 200px;
+          width: auto;
         }
       .home_banner_area .banner_inner .banner_content .media .media-body {
         vertical-align: middle;
