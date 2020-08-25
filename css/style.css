@@ -329,7 +329,7 @@ button:focus {
         vertical-align: middle;
         align-self: center;
         height: 200px;
-        width: 200px;
+        width: auto;
        }
 
 .blog_banner {
