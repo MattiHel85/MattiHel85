@@ -325,13 +325,13 @@ button:focus {
       text-align: left; }
       .home_banner_area .banner_inner .banner_content .media .d-flex {
         padding-right: 125px;
-        height: 200px;
-        width: auto; }
+        width: 200px;
+        height: auto;}
       .home_banner_area .banner_inner .banner_content .media .media-body {
         vertical-align: middle;
         align-self: center;
-        height: 100px;
-        width: auto; }
+        width: 200px;
+        height: auto; }
 
 .blog_banner {
   min-height: 780px;
