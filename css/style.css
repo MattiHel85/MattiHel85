@@ -329,8 +329,8 @@ button:focus {
       .home_banner_area .banner_inner .banner_content .media .media-body {
         vertical-align: middle;
         align-self: center;
-        height: 200px;
-        width: auto;
+        width: 200px;
+        height: auto;
       }
 
 .blog_banner {
