@@ -324,12 +324,12 @@ button:focus {
       align-self: center;
       text-align: left; }
       .home_banner_area .banner_inner .banner_content .media .d-flex {
-        
+        padding-right: 125px;
         width: 200px;
         height: auto;}
       .home_banner_area .banner_inner .banner_content .media .media-body {
         vertical-align: middle;
-        align-self: center;
+        align-self: left;
         width: 200px;
         height: auto; }
 
